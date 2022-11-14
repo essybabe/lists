@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(219, 212, 212);
+
+}
+.order{
+    border: 10px solid cyan ;
+    padding: 15px;
+    background-color: rgb(32, 160, 160);
+    border-radius: 15px;
+    margin-left: 10rem;
+    margin-right: 35rem;
+    margin-top: 50px;
+    
+    
+
+}
+#h1{
+    text-align: center;
+    color:white;
+    font-family: sans-serif;
+}
+#node{
+    color: white;
+    font-style: italic;
+}
+#node :hover{
+    color: gold;
+}
+.unorder{
+    border: 10px solid purple ;
+    padding: 15px;
+    background-color: black;
+    border-radius: 15px;
+    margin-left: 15rem;
+    margin-right: 30rem;
+    margin-top: 5px;
+    position: relative;
+    left: 30%;
+    bottom: 15rem;
+    
+}
